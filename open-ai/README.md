@@ -18,3 +18,7 @@ https://platform.openai.com/docs/api-reference
 ## Open AI Documentation
 
 https://platform.openai.com/docs/introduction
+
+## Billing
+
+https://platform.openai.com/account/billing/overview
